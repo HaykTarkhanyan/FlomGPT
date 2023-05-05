@@ -1,4 +1,4 @@
 # FlomGPT
 
 Quick and dirty demo
-[flomgpt quick demo.webm](https://user-images.githubusercontent.com/46108131/236459919-98ffa947-7971-4d32-946d-222a8e194352.webm)
+[flom with memory.webm](https://user-images.githubusercontent.com/46108131/236475144-722d6bbd-6e6a-4a87-9b79-efbd1657a8a1.webm)
