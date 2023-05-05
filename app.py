@@ -47,8 +47,8 @@ with column names that I will provide."""},
     if history:
         messages.extend(history)
 
-    # st.write("History:")
-    # st.code(messages)
+    st.write("History:")
+    st.code(messages)
     response = openai.ChatCompletion.create(
                 model="gpt-3.5-turbo",
                 messages=messages)
