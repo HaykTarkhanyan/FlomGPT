@@ -82,7 +82,7 @@ if uploaded_file is not None:
         print(f"Time {time.localtime()}")
         print(f"Prompt: {prompt}")
 
-        history.append({"role": "user", "content": chart_input})
+        history.append({"role": "user", "content": prompt})
 
         print(f"\n \nHisory {history}")
 
